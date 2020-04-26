@@ -2,6 +2,6 @@ class Dog
 
 end
 
-  fido.new 
-  snoopy.new
-  lassie.new
+  fido = fido.new
+  Snoopy.new
+  Lassie.new
